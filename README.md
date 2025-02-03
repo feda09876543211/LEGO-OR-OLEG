@@ -1,4 +1,6 @@
-# LEGO-OR-OLEG<header>
+# LEGO-OR-OLEG
+<!DOCTYPE html>
+<header>
     <img src=https://cdnb.artstation.com/p/assets/covers/images/008/786/267/large/can-erduman-can-erduman-lns-logo.jpg?1516384374 width="290" draggable="false" alt="Logo">
 </header>
 <main>
